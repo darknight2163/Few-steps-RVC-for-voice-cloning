@@ -3,6 +3,8 @@
 
 
 Easy 4-step implementation of RVC voice and sing cloning.
+
 Original Implementation: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
-Model Link: 
-1 https://www.weights.gg/
+
+Model Link:  https://www.weights.gg/
+
